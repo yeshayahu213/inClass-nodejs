@@ -1,0 +1,22 @@
+[
+    {
+        "vendor": "subali",
+        "maxSpeed": 100,
+        "price": 2000
+    },
+    {
+        "vendor": "mitsubobo",
+        "maxSpeed": 88,
+        "price": 1986
+    },
+    {
+        "vendor": "forg",
+        "maxSpeed": 50,
+        "price": 1000
+    },
+    {
+        "vendor": "toyoyo",
+        "maxSpeed": 60,
+        "price": 300
+    }
+]
